@@ -13,3 +13,6 @@ It can also be observed that fertility has been taken as a continues variable by
 The plot can be rotated to be viewed from x, y and z plus any direction.
 
 The points show values of the variable on hovering on them.
+
+To review html generated please download the .zip using the green clone / download button.
+button as the file is large abd can only be viewded raw on GITHIB.
